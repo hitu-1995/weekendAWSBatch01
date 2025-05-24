@@ -3,4 +3,6 @@
 void main()
 {
     printf("Line number 1 \n");
+    printf("Line number 2 \n");
+    
 }
